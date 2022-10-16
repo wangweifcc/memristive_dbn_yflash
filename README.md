@@ -7,15 +7,16 @@ It contains:
 
 
 ## System requirements
-- Hardware requirements
-A standard computer that can install and run MATLAB.
-- Software requirements
-  - OS Requirements:
-This package is supported for Windows, macOS and Linux.
+Hardware requirements
+- A standard computer that can install and run MATLAB.
+
+Software requirements
+- OS Requirements:
+  - This package is supported for Windows, macOS and Linux.
 Has been tested on MacOS (Apple Silicon).
 
-  - Matlab requirements:
-Matlab >= R2020a.
+- Matlab requirements:
+  - Matlab >= R2020a.
 
 ## Instructions to running the code
 
