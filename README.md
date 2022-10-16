@@ -28,8 +28,11 @@ Matlab >= R2020a.
 
 #### Download and load the MNIST dataset
 
+#### On-line training of MNIST based on the memristive deep belief network
+
 
 ## Suggestion for further works based on this project
 
-###
-### 
+#### Use the y-flash memristor to construct and simulate other types of neural network
+
+#### On-line training of the memristive deep belief network using other memristor modeling behavior
