@@ -14,7 +14,7 @@ This package is supported for Windows, macOS and Linux.
 Has been tested on MacOS (Apple Silicon).
 
 #### Matlab requirements:
-Matlab >= R2017.
+Matlab >= R2020a.
 
 ## Instructions to running the code
 
