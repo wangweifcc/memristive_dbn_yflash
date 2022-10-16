@@ -24,7 +24,9 @@ Matlab >= R2020a.
 
 #### Device-to-device variation
 
-#### Memristive deep belief network for on-line training of MNIST
+### Memristive deep belief network for on-line training of MNIST
+
+#### Download and load the MNIST dataset
 
 
 ## Suggestion for further works based on this project
