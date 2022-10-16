@@ -27,4 +27,7 @@ Matlab >= R2020a.
 #### Memristive deep belief network for on-line training of MNIST
 
 
+## Suggestion for further works based on this project
 
+###
+### 
