@@ -76,4 +76,9 @@ Has been tested on MacOS (Apple Silicon).
 - Use other memristor modeling behavior to verify and invesitage the on-line training of the memristive deep belief network 
 
 
+## References
+
+
+
+
 
