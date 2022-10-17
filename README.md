@@ -1,9 +1,11 @@
 # Memristive deep belief network based on two-terminal floating gate memristor
 
-This project deposits the MATLAB code for memristive deep belief nework based on two-terminal floating gate memristor (y-flash).
+This project deposits the MATLAB code for memristive deep belief nework based on two-terminal floating gate memristor (y-flash device).
 It contains:
 - Y-flash device behaivor modeling code
 - Online traning code for memristive deep belief network
+
+Please refer to our published paper "Wei Wang et al., A memristive deep belief neural network based on silicon synapses, 2022." (Reference Information to be Completed!!) when runing this project. 
 
 
 ## System requirements
@@ -67,6 +69,11 @@ Has been tested on MacOS (Apple Silicon).
   
 ## Suggestion for further works based on this project
 
-- Use the y-flash memristor to construct and simulate other types of neural network
+- Use the y-flash memristor to construct and simulate other types of neural network;
 
-- On-line training of the memristive deep belief network using other memristor modeling behavior
+- Change the parameters of the memristive neural network to find optimized online training results;
+
+- Use other memristor modeling behavior to verify and invesitage the on-line training of the memristive deep belief network 
+
+
+
