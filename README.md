@@ -62,9 +62,9 @@ Has been tested on MacOS (Apple Silicon).
 
   - Browse the MATLAB working folder to "/memristive_dbn";
   
-  - Run the code file "mnistdeepbn.m" to start simulation of the online trianing of deep belief network using silicon synapses based on the y-flash memristor;
+  - Run the code file "mnistdeepbn.m" to start simulation of the online trianing of deep belief network using silicon synapses based on the y-flash memristor (the simulation takes several hours on a type personal computer);
   
-  - Run the code file "plot_figures.m" to see the analysis of the online training results.
+  - Run the code file "plot_figures.m" to see the analysis of the online training results (the simulation takes several minutes on a type personal computer).
   
   
 ## Suggestion for further works based on this project
