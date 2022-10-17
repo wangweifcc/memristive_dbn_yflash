@@ -77,8 +77,9 @@ Has been tested on MacOS (Apple Silicon).
 
 
 ## References
-
-
+[1] W. Wang et al., “Physical based compact model of Y-Flash memristor for neuromorphic computation,” Appl. Phys. Lett., vol. 119, no. 26, p. 263504, Dec. 2021, doi: 10.1063/5.0069116.
+[2] W. Wang et al., “Efficient Training of the Memristive Deep Belief Net Immune to Non‐Idealities of the Synaptic Devices,” Adv. Intell. Syst., vol. 4, no. 5, p. 2100249, May 2022, doi: 10.1002/aisy.202100249.
+[3] Wei Wang et al., A memristive deep belief neural network based on silicon synapses, 2022. (Reference Information to be Completed!!)
 
 
 
