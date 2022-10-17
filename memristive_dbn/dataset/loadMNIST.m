@@ -6,7 +6,7 @@ close all
 % LOAD DATASET
 % You should fisrt downloand and unzip the MNIST dataset files from internet
 % for instance, from "https://deepai.org/dataset/mnist"
-% four files with the names "train-images-idx3-ubyte", "train-labels-idx1-ubyte", "t10k-images-idx3-ubyte", "t10k-labels-idx1-ubyte" should be in this folder.
+% four files with the names "train-images-idx3-ubyte", "train-labels-idx1-ubyte", "t10k-images-idx3-ubyte", and "t10k-labels-idx1-ubyte" should be in this folder.
 
 images_tr = loadMNISTImages('./train-images-idx3-ubyte');
 labels_tr = loadMNISTLabels('./train-labels-idx1-ubyte');
