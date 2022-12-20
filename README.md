@@ -81,7 +81,7 @@ Has been tested on MacOS (Apple Silicon).
 
 [2] W. Wang et al., “Efficient Training of the Memristive Deep Belief Net Immune to Non‐Idealities of the Synaptic Devices,” Adv. Intell. Syst., vol. 4, no. 5, p. 2100249, May 2022, doi: 10.1002/aisy.202100249.
 
-[3] Wei Wang et al., A memristive deep belief neural network based on silicon synapses, 2022. (Reference Information to be Completed!!)
+[3] W. Wang et al., "A memristive deep belief neural network based on silicon synapses," Nat. Electron., 2022. https://doi.org/10.1038/s41928-022-00878-9.
 
 
 
